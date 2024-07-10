@@ -430,7 +430,7 @@ BR2_LINUX_KERNEL=y
 BR2_LINUX_KERNEL_CUSTOM_GIT=y
 # BR2_LINUX_KERNEL_CUSTOM_HG is not set
 # BR2_LINUX_KERNEL_CUSTOM_SVN is not set
-BR2_LINUX_KERNEL_CUSTOM_REPO_URL="https://git.dev.tencent.com/weidongshan/100ask_firefly-rk3288_kernel.git"
+BR2_LINUX_KERNEL_CUSTOM_REPO_URL="https://github.com/TeaAndCoffeeParty/firefly-rk3288_kernel.git"
 BR2_LINUX_KERNEL_CUSTOM_REPO_VERSION="master"
 BR2_LINUX_KERNEL_VERSION="master"
 BR2_LINUX_KERNEL_PATCH=""
@@ -3055,7 +3055,7 @@ BR2_TARGET_UBOOT_BUILD_SYSTEM_KCONFIG=y
 BR2_TARGET_UBOOT_CUSTOM_GIT=y
 # BR2_TARGET_UBOOT_CUSTOM_HG is not set
 # BR2_TARGET_UBOOT_CUSTOM_SVN is not set
-BR2_TARGET_UBOOT_CUSTOM_REPO_URL="https://git.dev.tencent.com/weidongshan/100ask_firefly-rk3288_uboot.git"
+BR2_TARGET_UBOOT_CUSTOM_REPO_URL="https://github.com/TeaAndCoffeeParty/firefly-rk3288_uboot.git"
 BR2_TARGET_UBOOT_CUSTOM_REPO_VERSION="master"
 BR2_TARGET_UBOOT_VERSION="master"
 BR2_TARGET_UBOOT_PATCH=""
